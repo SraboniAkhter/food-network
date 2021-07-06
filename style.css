@@ -69,3 +69,19 @@ h1 {
     height: 5vh;
     margin: 0  10px 40px 10px;
 }
+.review {
+    height: 300px;
+    display: flex;
+    border-radius: 30px;
+    margin-top: 15px;
+    margin-left: 35px;
+    margin-right: 35px;
+    box-shadow: 10px 10px 20px 10px grey;
+    justify-content: center;
+    cursor: grabbing;
+}
+.review-div {
+    justify-content: space-between;
+    font-weight: 800px;
+    padding: 25px;
+}
